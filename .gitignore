@@ -4,3 +4,6 @@
 *.sln
 Debug
 *.vs
+*.idea
+cmake-build-debug 
+CMakeLists.txt
